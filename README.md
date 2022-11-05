@@ -1,16 +1,14 @@
-### Hi there 👋
+![Portada](https://user-images.githubusercontent.com/108738746/200094237-90b5cdd8-1d54-4d50-a697-e2de02615163.PNG)
 
-<!--
-**Aleja22LC/Aleja22Lc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩🏻‍ God Day! 
+### I am Lina Alejandra León 
 
-Here are some ideas to get you started:
+I´m Front-End Developer with Business Administration studies focused on Project Management. 
+I have been working on developing my leadership, mediation, and conflict resolution skills. 
+I love programming as it presents itself as a combination of two things I greatly enjoy: technology and tasks where 
+I can design and create new content.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👩🏻‍💻 **My [Curriculum Vitae](https://drive.google.com/file/d/1NmJeHPNG-yrbI6kYZgEdOyZmAgYsxWs3/view?usp=sharing)**
+
+
+[![LinkedIn](https://imagizer.imageshack.com/img922/6057/Si4Tg6.png)](https://www.linkedin.com/in/lina-alejandra-leon-cifuentes/)
